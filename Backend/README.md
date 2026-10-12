@@ -1,7 +1,5 @@
 # Backend
 
-Lead: Tushar
-
 The backend API owns identity, authorization, workflow state and audit events. It never trusts the client and never runs user code inside the API process.
 
 ## Stack
