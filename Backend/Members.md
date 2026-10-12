@@ -1,6 +1,6 @@
 # Backend Members
 
-Lead: Tushar (GitHub: <handle>)
+Tushar (https://github.com/tusharynayaka)
 
 Contributors:
 
